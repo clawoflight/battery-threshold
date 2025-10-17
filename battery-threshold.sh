@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: Bennett Piater
 set -eu
 
 BAT_PATH="/sys/class/power_supply/BAT0"
